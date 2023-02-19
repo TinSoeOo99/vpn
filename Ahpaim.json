@@ -1,13 +1,13 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1",
+"Version":"1.2",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/TinSoeOo99/vpn/blob/main/vpn.zip?raw=true" ,
+"Url":"https://github.com/TinSoeOo99/vpn/blob/main/mon.zip" ,
 "Changelog":"
 မ ဂင်္လာပါ 
  TRUE & DTAC 5ဖိုင်ထည့်ပေးထာတယ်
  ဖိုင်ကုန်ရက်‌ေတွးပါ
- ဖိုင်ကုန်နေ့
+ ဖိုင်ကုန်နေ့😄😄😄😄😄
 ",
 //ไม่ต้องยุ่งด้านล่าง
 "latestVersion": "1.0.0",
